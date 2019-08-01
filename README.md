@@ -1,2 +1,4 @@
 # DBM
-DBM's BOT javascript storge
+::BOT INFO::
+VERSION 1.0.0
+::END::
