@@ -1,4 +1,4 @@
 # DBM
-::BOT INFO::
+::DBM's BOT INFO::
 VERSION 1.0.0
 ::END::
